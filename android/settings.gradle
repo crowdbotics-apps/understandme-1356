@@ -1,0 +1,3 @@
+rootProject.name = 'understandme_1356'
+
+include ':app'
